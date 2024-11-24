@@ -163,7 +163,7 @@
     "split.js": "^1.5.10",
     "styled-components": "^5.2.1",
     "tempusdominus-core": "^5.19.3",
-    "uplot": "^1.6.24",
+    "uplot": "^1.6.31",
     "uplot-react": "^1.1.4",
     "valid-filename": "^2.0.1",
     "webcabin-docker": "https://github.com/pgadmin-org/wcdocker#460fc6d90ba170bb177faaa8277f5fbb8279522a",

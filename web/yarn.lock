@@ -12532,7 +12532,7 @@ __metadata:
     tempusdominus-core: ^5.19.3
     terser-webpack-plugin: ^5.1.1
     typescript: ^3.2.2
-    uplot: ^1.6.24
+    uplot: ^1.6.31
     uplot-react: ^1.1.4
     url-loader: ^4.1.1
     valid-filename: ^2.0.1
@@ -14182,10 +14182,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"uplot@npm:^1.6.24":
-  version: 1.6.24
-  resolution: "uplot@npm:1.6.24"
-  checksum: 253e389dc6db40e1231d1c63913dea1e6987856cfde985da036e70786ef0077afc40f3ed6883c54d95a97ecedc3ea52a7fa815e88f3c3d381b61c15e745f8a40
+"uplot@npm:^1.6.31":
+  version: 1.6.31
+  resolution: "uplot@npm:1.6.31"
+  checksum: 5ef8d5a01122b77eef2f8c83ea2b5630f9e43f979758f76bb4032b895797afdfe666d0ec588150db0bec7494068ee62b3944cb1b74fcd588f717fda48879a6c8
   languageName: node
   linkType: hard
 
